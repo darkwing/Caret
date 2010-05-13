@@ -1,7 +1,7 @@
 name:  Caret
 author:  davidwalsh
-current:  
-category:  
-tags:  []
-docs:  
-demo:  
+current:  0.1
+category:  Forms
+tags:  [form,input,caret,select]
+docs:  http://davidwalsh.name/js/caret
+demo:  http://davidwalsh.name/js/caret
